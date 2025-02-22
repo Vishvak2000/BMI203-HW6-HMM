@@ -1,4 +1,4 @@
-![GitHub Workflow Status](https://github.com/Vishvak2000/BMI203-HW6-HMM/actions/workflows/python-app.yaml/badge.svg)
+[![Github Actions Test](https://github.com/Vishvak2000/BMI203-HW6-HMM/actions/workflows/python-app.yml/badge.svg)](https://github.com/Vishvak2000/BMI203-HW6-HMM/actions/workflows/python-app.yml)
 
 # HW6-HMM
 
