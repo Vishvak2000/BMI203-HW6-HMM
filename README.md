@@ -1,7 +1,9 @@
+![GitHub Workflow Status](https://github.com/Vishvak2000/BMI203-HW6-HMM/actions/workflows/python-app.yaml/badge.svg)
+
 # HW6-HMM
 
-In this assignment, you'll implement the Forward and Viterbi Algorithms (dynamic programming). 
-
+# Project Description
+This project implements a Hidden Markov Model (HMM) featuring both the Forward and Viterbi algorithms. The Forward algorithm calculates the total probability of observing a sequence by summing over all possible hidden state paths, while the Viterbi algorithm determines the most likely sequence of hidden states that generated the observed sequence.
 
 # Assignment
 
@@ -48,18 +50,18 @@ Finally, please update your README with a brief description of your methods.
 
 ## Task List
 
-[TODO] Complete the HiddenMarkovModel Class methods  <br>
-  [ ] complete the `forward` function in the HiddenMarkovModelClass <br>
-  [ ] complete the `viterbi` function in the HiddenMarkovModelClass <br>
+[X] Complete the HiddenMarkovModel Class methods  <br>
+  [X ] complete the `forward` function in the HiddenMarkovModelClass <br>
+  [X] complete the `viterbi` function in the HiddenMarkovModelClass <br>
 
-[TODO] Unit Testing  <br>
-  [ ] Ensure functionality on mini and full weather dataset <br>
-  [ ] Account for edge cases 
+[X] Unit Testing  <br>
+  [ X] Ensure functionality on mini and full weather dataset <br>
+  [X ] Account for edge cases 
 
-[TODO] Packaging <br>
-  [ ] Update README with description of your methods <br>
+[X] Packaging <br>
+  [X] Update README with description of your methods <br>
   [ ] pip installable module (optional)<br>
-  [ ] github actions (install + pytest) (optional)
+  [X] github actions (install + pytest) (optional)
 
 
 ## Completing the Assignment 
